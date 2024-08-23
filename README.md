@@ -29,7 +29,7 @@ This repo includes following use cases:
 1. [Predictive Maintenance](/predictive-maintenance/): Creating synthetic images of equipment with rust or water damage could help in the accuracy of predictive maintenance models
 2. [Root Cause Analysis of Equipments](/root-cause-analysis/): Incorporating Generative AI into your RCA process, you can make the analysis more adaptive, context-aware, and capable of reasoning, pattern recognition and dynamic learning
 3. [Analyzing Shift Handover Reports](/shift-handover-report/): Leveraging Generative AI through conversational chat to extract insights from operational shift handover reports in different formats.
-4. [Analyzing RFP Documents](/rfp-documents/): Process and summarize the key details from RFP documents
+4. [Analyzing RFP Documents](/analyzing-rfp/): Process and summarize the key details from RFP documents
 5. [Disappearing Workforce](/disappearing-workforce/): Capture valuable knowledge from interviews with employees using generated questions; collect emails, reports, and presentations can be analyzed and easily queried and accessed when needed
 
 ### Setup your Account <a name="Setup"></a>
